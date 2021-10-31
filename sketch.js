@@ -6,7 +6,7 @@ function preload(){
   sleep = loadAnimation("images/sleep.png");
   brush = loadAnimation("images/brush.png");
   gym = loadAnimation("images/gym1.png","images/gym1.png","images/gym2.png","images/gym2.png");
-  eat = loadAnimation("images/eat1.png","images/eat1.png","images/eat1.png","images/eat2.png","images/eat2.png","images/eat2.png");
+  eat = loadAnimation("images/eat1.png","images/eat1.png","images/eat1.png","images/eat2.png","eat2.png","eat2.png");
   bath = loadAnimation("images/bath1.png","images/bath1.png","images/bath1.png","images/bath2.png","images/bath2.png","images/bath2.png");
  move = loadAnimation("images/move1.png","images/move1.png","images/move2.png","images/move2.png");
 }
